@@ -3,7 +3,7 @@ Backlog – Common Website
 
 | ID | User Story | Priority | Story Points |
 |----|------------|----------|--------------|
-| US1 | As a visitor, I want to see a homepage with company info | High | 3 |
+| US1 | AS A User, I WANT to see a homepage with company info, SO THAT a user can access the compnay info| High | 3 |
 | US2 | As a visitor, I want to navigate through pages easily | High | 5 |
 | US3 | As a visitor, I want a contact form to send messages | High | 5 |
 | US4 | As an admin, I want to manage content easily | Medium | 8 |
