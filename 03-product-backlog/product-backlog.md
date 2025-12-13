@@ -18,7 +18,7 @@ This product backlog represents a **prioritized, refined set of user stories** d
 
 ## EPIC 1: User Access & Authentication
 
-**Owner Team:** Team Alpha (Backend)
+**Owner Team:** Dev Team 1 (Backend)
 **Business Value:** Secure access control for learners and administrators
 
 ---
@@ -41,7 +41,7 @@ This product backlog represents a **prioritized, refined set of user stories** d
 
 **Labels**
 
-* Team: Alpha
+* Team: Dev Team 1
 * Work Type: Project
 * Impacted System: Authentication
 
@@ -67,7 +67,7 @@ This product backlog represents a **prioritized, refined set of user stories** d
 
 ## EPIC 2: Learning Content Management
 
-**Owner Team:** Team Alpha
+**Owner Team:** Dev Team 1
 **Business Value:** Centralized management of cybersecurity learning materials
 
 ---
@@ -100,7 +100,7 @@ This product backlog represents a **prioritized, refined set of user stories** d
 
 ## EPIC 3: Learner Dashboard & UX
 
-**Owner Team:** Team Beta (Frontend)
+**Owner Team:** Dev Team 2 Frontend
 **Business Value:** Improve engagement and usability
 
 ---
@@ -120,7 +120,7 @@ This product backlog represents a **prioritized, refined set of user stories** d
 **Dependencies**
 
 * Module assignment (Story 2.2)
-* Backend APIs from Team Alpha
+* Backend APIs from Dev Team 1
 
 ---
 
@@ -134,7 +134,7 @@ This product backlog represents a **prioritized, refined set of user stories** d
 
 ## EPIC 4: Cloud Infrastructure & Security Enablement
 
-**Owner Team:** Team Gamma
+**Owner Team:** The Engineers
 **Business Value:** Secure, scalable platform foundation
 
 ---
@@ -167,7 +167,7 @@ This product backlog represents a **prioritized, refined set of user stories** d
 
 ## EPIC 5: BAU & Operational Support
 
-**Owner Teams:** Alpha / Beta / Gamma
+**Owner Teams:** Dev Team 1, Dev Team 2, The Engineers
 **Business Value:** Maintain platform stability
 
 ---
