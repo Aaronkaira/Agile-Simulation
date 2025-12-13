@@ -88,10 +88,9 @@ The following metrics are tracked and reviewed each sprint:
 
 * Sprint velocity
 * Delivery predictability
-* Cycle time
 * Backlog health
-* Defect ratio
 * Capacity vs commitment
+
 
 Sprint summaries and leadership reports highlight:
 
