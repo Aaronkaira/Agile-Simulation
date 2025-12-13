@@ -29,7 +29,7 @@ This case study focuses on **how a Scrum Master enables delivery excellence**, r
 
 ## Scrum Teams
 
-### Team Alpha – Platform & Backend
+### Dev Team 1 – Platform & Backend
 
 **Responsibilities**
 
@@ -39,12 +39,12 @@ This case study focuses on **how a Scrum Master enables delivery excellence**, r
 
 **Dependencies**
 
-* API contracts with Team Beta
+* API contracts with Dev Team 2
 * Infrastructure readiness from Team Gamma
 
 ---
 
-### Team Beta – Frontend & UX
+### Dev Team 2 – Frontend & UX
 
 **Responsibilities**
 
@@ -54,12 +54,12 @@ This case study focuses on **how a Scrum Master enables delivery excellence**, r
 
 **Dependencies**
 
-* Backend APIs from Team Alpha
+* Backend APIs from Dev Team 1
 * Deployment environments from Team Gamma
 
 ---
 
-### Team Gamma – Cloud & Security Enablement
+### The Engineers – Cloud & Security Enablement
 
 **Responsibilities**
 
@@ -69,7 +69,7 @@ This case study focuses on **how a Scrum Master enables delivery excellence**, r
 
 **Dependencies**
 
-* Feature requirements from Teams Alpha & Beta
+* Feature requirements from Teams Dev Team 1 and 2
 * Release coordination across teams
 
 ---
